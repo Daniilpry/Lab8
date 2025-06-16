@@ -30,6 +30,7 @@
 ## Демонстрація роботи
 <img width="414" alt="image" src="https://github.com/user-attachments/assets/6fa8099e-5b4b-4ed6-99e5-2f5c76b43e68" />
 
+---
 
 # Завдання 8.2 – Робота з покажчиком файлу за допомогою `lseek()` та `read()`
 
